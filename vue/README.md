@@ -1,6 +1,6 @@
 # Order Summary Component
 
-Netlify Status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7764748a-b394-4dd0-8b0f-91c509ec4789/deploy-status)](https://app.netlify.com/sites/stoic-archimedes-357464/deploys)
 
 ## Description
 
